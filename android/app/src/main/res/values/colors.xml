@@ -1,0 +1,5 @@
+<resources>
+    <!-- Splash background — matches the LoaderScreen's top gradient stop so the
+         pre-bridge window frame blends into the in-app loader (no black flash). -->
+    <color name="splashBackground">#04293A</color>
+</resources>
